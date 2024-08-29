@@ -1,3 +1,20 @@
-✅ Life 리파지토리 블로그 읽기
+✅ Life
+
+```
+print("test")
+```
+
+:gem:
+
+$$
+x
+$$
+
+$$
+\begin{aligned}
+f(x)&=ax^2+bx+c\\
+g(x)&=Ax^4
+\end{aligned}
+$$
 
 test22
